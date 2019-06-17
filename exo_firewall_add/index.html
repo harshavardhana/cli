@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>
+  exo firewall add &ndash; exo - the Exoscale command-line tool
+</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css">
+<script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+
+<nav class="navbar is-dark" role="navigation" aria-label="main navigation">
+    <div class="container">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="https://exoscale.github.io/cli">Exoscale CLI</a>
+        </div>
+        <div class="navbar-end is-right navbar-menu">
+            <div style="margin-top:.7rem">
+                <a class="button is-primary" href="https://github.com/exoscale/cli/releases">
+                    <span class="icon"><i class="fas fa-download"></i></span>
+                    <span>Download</span>
+                </a>
+                <iframe src="https://ghbtns.com/github-btn.html?user=exoscale&repo=cli&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px" style="height: 30px !important"></iframe>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<main>
+    
+
+<section class="hero is-light is-bold">
+<div class="hero-body">
+<div class="container">
+  <h1 class="title is-1 is-spaced">exo firewall add</h1>
+  <div class="subtitle">Add rule to a security group</div>
+</div>
+</div>
+</section>
+
+<section class="section">
+<div class="container">
+  <div class="content">
+    <h3 id="synopsis">Synopsis</h3>
+
+<p>No arguments create a IPv4 wide open rule.</p>
+
+<p>For ICMP rules, specify the icmp-code and icmp-type.</p>
+
+<pre><code>firewall add &lt;security group&gt; --protocol icmp --icmp-type 8 --icmp-code 0
+</code></pre>
+
+<p>For the other protocols specify the port ranges.</p>
+
+<pre><code>firewall add &lt;security group&gt; --protocol tcp --port 8000-8080
+</code></pre>
+
+<p>A set of predefined commands exists, such a ssh, ping or minecraft.</p>
+
+<pre><code>firewall add &lt;security group&gt; ssh
+</code></pre>
+
+<pre><code>exo firewall add &lt;security group name | id&gt;  [ssh | telnet | rdp | ...] (default preset rules) [flags]
+</code></pre>
+
+<h3 id="options">Options</h3>
+
+<p><code>--cidr, -c</code> - Rule Cidr [CIDR 0.0.0.0/0,::/0,&hellip;]<br />
+<code>--description, -d</code> - Rule description<br />
+<code>--egress, -e</code> - By default rule is INGRESS (set &ndash;egress to have EGRESS rule)<br />
+<code>--help, -h</code> - help for add<br />
+<code>--icmp-code</code> - Set icmp type code<br />
+<code>--icmp-type</code> - Set icmp type<br />
+<code>--ipv6, -6</code> - Set ipv6 on default rules or on &ndash;my-ip<br />
+<code>--my-ip</code> - Set CIDR for my ip<br />
+<code>--port, -P</code> - Rule port range [80-80,443,22-22]<br />
+<code>--protocol, -p</code> - Rule Protocol available [tcp, udp, icmp, icmpv6, ah, esp, gre]<br />
+<code>--security-group, -s</code> - Rule security group [name or id ex: sg1,sg2&hellip;]</p>
+
+<h3 id="options-inherited-from-parent-commands">Options inherited from parent commands</h3>
+
+<p><code>--config, -C</code> - Specify an alternate config file [env EXOSCALE_CONFIG]<br />
+<code>--use-account, -A</code> - Account to use in config file [env EXOSCALE_ACCOUNT]</p>
+
+<h3 id="see-also">SEE ALSO</h3>
+
+<ul>
+<li><a href="/cli/exo_firewall/">exo firewall</a>     - Security groups management<br />
+<br /></li>
+</ul>
+  </div>
+</div>
+</section>
+
+
+</main>
+
+
+
+<footer class="footer" style="clear:both">
+    <div class="container">
+        <div class="content has-text-centered">
+            <p>Made with ❤️ in Lausanne, Switzerland 🇨🇭.</p>
+            <p>
+                Built with <a href="https://gohugo.io/">Hugo</a>, <a href="https://bulma.io/">Bulma</a>.
+                Hosted on <a href="https://github.com/exoscale/cli">GitHub</a>.
+            </p>
+        </div>
+    </div>
+</footer>
+

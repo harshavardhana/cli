@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>
+  exo api address associate &ndash; exo - the Exoscale command-line tool
+</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css">
+<script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+
+<nav class="navbar is-dark" role="navigation" aria-label="main navigation">
+    <div class="container">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="https://exoscale.github.io/cli">Exoscale CLI</a>
+        </div>
+        <div class="navbar-end is-right navbar-menu">
+            <div style="margin-top:.7rem">
+                <a class="button is-primary" href="https://github.com/exoscale/cli/releases">
+                    <span class="icon"><i class="fas fa-download"></i></span>
+                    <span>Download</span>
+                </a>
+                <iframe src="https://ghbtns.com/github-btn.html?user=exoscale&repo=cli&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px" style="height: 30px !important"></iframe>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<main>
+    
+
+<section class="hero is-light is-bold">
+<div class="hero-body">
+<div class="container">
+  <h1 class="title is-1 is-spaced">exo api address associate</h1>
+  <div class="subtitle">Acquires and associates a public IP to an account.</div>
+</div>
+</div>
+</section>
+
+<section class="section">
+<div class="container">
+  <div class="content">
+    <h3 id="synopsis">Synopsis</h3>
+
+<p>Acquires and associates a public IP to an account. <a href="http://cloudstack.apache.org/api/apidocs-4.4/user/associateIpAddress.html">http://cloudstack.apache.org/api/apidocs-4.4/user/associateIpAddress.html</a></p>
+
+<pre><code>exo api address associate [flags]
+</code></pre>
+
+<h3 id="options">Options</h3>
+
+<p><code>--interval</code> - healthcheck definition: time in seconds to wait for each check. Default: 10, minimum: 5<br />
+<code>--mode</code> - healthcheck definition: healthcheck mode can be either &#39;tcp&#39; or &#39;http&#39;<br />
+<code>--path</code> - healthcheck definition: the path against which the &#39;http&#39; healthcheck will be performed. Required if mode is &#39;http&#39;, ignored otherwise.<br />
+<code>--port</code> - healthcheck definition: the port against which the healthcheck will be performed. Required if a &#39;mode&#39; is provided.<br />
+<code>--strikes-fail</code> - healthcheck definition: number of times to retry before declaring the healthcheck &#39;dead&#39;. Default: 3<br />
+<code>--strikes-ok</code> - healthcheck definition: number of times to retry before declaring the healthcheck &#39;alive&#39;. Default: 2<br />
+<code>--timeout</code> - healthcheck definition: time in seconds to wait for each check. Default: 2, cannot be greater than interval.<br />
+<code>--zoneid</code> - the ID of the availability zone you want to acquire a public IP address from<br />
+<code>--help, -h</code> - help for associate</p>
+
+<h3 id="options-inherited-from-parent-commands">Options inherited from parent commands</h3>
+
+<p><code>--config, -C</code> - Specify an alternate config file [env EXOSCALE_CONFIG]<br />
+<code>--debug, -d</code> - debug mode on<br />
+<code>--dry-run, -D</code> - produce a cURL ready URL<br />
+<code>--use-account, -A</code> - Account to use in config file [env EXOSCALE_ACCOUNT]</p>
+
+<h3 id="see-also">SEE ALSO</h3>
+
+<ul>
+<li><a href="/cli/exo_api_address/">exo api address</a>   - Address management<br />
+<br /></li>
+</ul>
+  </div>
+</div>
+</section>
+
+
+</main>
+
+
+
+<footer class="footer" style="clear:both">
+    <div class="container">
+        <div class="content has-text-centered">
+            <p>Made with ❤️ in Lausanne, Switzerland 🇨🇭.</p>
+            <p>
+                Built with <a href="https://gohugo.io/">Hugo</a>, <a href="https://bulma.io/">Bulma</a>.
+                Hosted on <a href="https://github.com/exoscale/cli">GitHub</a>.
+            </p>
+        </div>
+    </div>
+</footer>
+

@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_affinitygroup/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_affinitygroup_create/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_affinitygroup_delete/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_affinitygroup_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_affinitygroup_show/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_account/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_account_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_address/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_address_associate/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_address_deletereversednsfromaddress/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_address_disassociate/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_address_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_address_queryreversednsforaddress/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_address_update/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_address_updatereversednsforaddress/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_affinity-group/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_affinity-group_create/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_affinity-group_delete/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_affinity-group_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_api/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_api_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_async-job/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_async-job_listasyncjobs/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_async-job_queryasyncjobresult/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_event/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_event_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_event_listtype/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_network/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_network_create/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_network_delete/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_network_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_network_listnetworkofferings/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_network_update/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_nic/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_nic_activateip6/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_nic_addiptonic/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_nic_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_nic_removeipfromnic/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_offering/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_offering_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_offering_listdetails/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_offering_listlimits/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_security-group/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_security-group_authorizeegress/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_security-group_authorizeingress/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_security-group_create/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_security-group_delete/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_security-group_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_security-group_revokeegress/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_security-group_revokeingress/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_snapshot/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_snapshot_create/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_snapshot_delete/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_snapshot_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_snapshot_revert/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_ssh/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_ssh_create/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_ssh_delete/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_ssh_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_ssh_register/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_ssh_reset/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_tag/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_tag_create/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_tag_delete/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_tag_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_template/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_template_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_template_listisos/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_user/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_user_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_user_registeruserkeys/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_vm/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_vm_addnic/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_vm_attachiso/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_vm_changeservice/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_vm_deletereversednsfromvm/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_vm_deploy/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_vm_destroy/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_vm_detachiso/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_vm_expunge/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_vm_getpassword/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_vm_getuserdata/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_vm_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_vm_queryreversednsforvm/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_vm_reboot/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_vm_recover/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_vm_removenic/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_vm_resetpassword/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_vm_restore/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_vm_scale/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_vm_start/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_vm_stop/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_vm_update/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_vm_updatereversednsforvm/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_vm_updatevmaffinitygroup/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_vm_updatevmnicip/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_vm-group/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_vm-group_create/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_vm-group_delete/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_vm-group_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_vm-group_update/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_volume/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_volume_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_volume_resize/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_zone/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_api_zone_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_config/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_config_delete/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_config_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_config_set/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_config_show/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_add/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_add_a/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_add_aaaa/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_add_alias/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_add_caa/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_add_cname/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_add_hinfo/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_add_mx/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_add_naptr/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_add_ns/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_add_pool/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_add_srv/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_add_sshfp/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_add_txt/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_add_url/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_create/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_delete/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_remove/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_show/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_update/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_update_a/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_update_aaaa/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_update_alias/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_update_cname/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_update_hinfo/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_update_mx/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_update_naptr/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_update_ns/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_update_pool/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_update_spf/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_update_srv/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_update_sshfp/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_update_txt/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_dns_update_url/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_eip/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_eip_associate/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_eip_create/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_eip_delete/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_eip_dissociate/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_eip_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_eip_show/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_eip_update/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_firewall/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_firewall_add/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_firewall_create/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_firewall_delete/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_firewall_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_firewall_remove/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_firewall_show/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_lab/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_lab_kube/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_lab_kube_create/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_lab_kube_delete/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_lab_kube_env/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_lab_kube_ip/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_lab_kube_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_lab_kube_start/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_lab_kube_stop/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_privnet/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_privnet_associate/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_privnet_create/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_privnet_delete/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_privnet_dissociate/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_privnet_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_privnet_show/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_privnet_update/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_runstatus/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_runstatus_create/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_runstatus_delete/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_runstatus_incident/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_runstatus_incident_add/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_runstatus_incident_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_runstatus_incident_remove/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_runstatus_incident_show/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_runstatus_incident_update/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_runstatus_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_runstatus_maintenance/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_runstatus_maintenance_add/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_runstatus_maintenance_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_runstatus_maintenance_remove/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_runstatus_maintenance_show/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_runstatus_maintenance_update/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_runstatus_service/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_runstatus_service_create/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_runstatus_service_delete/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_runstatus_service_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_runstatus_service_show/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_runstatus_show/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_sos/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_sos_acl/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_sos_acl_add/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_sos_acl_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_sos_acl_remove/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_sos_create/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_sos_delete/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_sos_download/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_sos_header/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_sos_header_add/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_sos_header_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_sos_header_remove/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_sos_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_sos_metadata/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_sos_metadata_add/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_sos_metadata_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_sos_metadata_remove/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_sos_remove/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_sos_upload/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_ssh/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_sshkey/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_sshkey_create/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_sshkey_delete/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_sshkey_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_sshkey_upload/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_status/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_version/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_vm/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_vm_create/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_vm_delete/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_vm_firewall/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_vm_firewall_add/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_vm_firewall_remove/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_vm_firewall_set/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_vm_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_vm_reboot/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_vm_reset/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_vm_resize/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_vm_scale/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_vm_serviceoffering/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_vm_show/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_vm_snapshot/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_vm_snapshot_create/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_vm_snapshot_delete/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_vm_snapshot_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_vm_snapshot_revert/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_vm_start/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_vm_stop/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_vm_template/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_vm_template_delete/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_vm_template_list/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_vm_template_register/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_vm_template_show/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_vm_updateip/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/exo_zone/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/</loc>
+    <lastmod>2019-06-17T13:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exoscale.github.io/cli/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

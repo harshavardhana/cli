@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>
+  exo lab kube &ndash; exo - the Exoscale command-line tool
+</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css">
+<script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+
+<nav class="navbar is-dark" role="navigation" aria-label="main navigation">
+    <div class="container">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="https://exoscale.github.io/cli">Exoscale CLI</a>
+        </div>
+        <div class="navbar-end is-right navbar-menu">
+            <div style="margin-top:.7rem">
+                <a class="button is-primary" href="https://github.com/exoscale/cli/releases">
+                    <span class="icon"><i class="fas fa-download"></i></span>
+                    <span>Download</span>
+                </a>
+                <iframe src="https://ghbtns.com/github-btn.html?user=exoscale&repo=cli&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px" style="height: 30px !important"></iframe>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<main>
+    
+
+<section class="hero is-light is-bold">
+<div class="hero-body">
+<div class="container">
+  <h1 class="title is-1 is-spaced">exo lab kube</h1>
+  <div class="subtitle">Standalone Kubernetes cluster management</div>
+</div>
+</div>
+</section>
+
+<section class="section">
+<div class="container">
+  <div class="content">
+    <h3 id="synopsis">Synopsis</h3>
+
+<p>These commands allow you to bootstrap standalone Kubernetes cluster<br />
+instances in a similar fashion as Minikube. It runs a single-node Kubernetes<br />
+cluster inside an Exoscale VM for users looking to try out Kubernetes or develop<br />
+with it day-to-day.</p>
+
+<pre><code>exo lab kube [command] [flags]
+</code></pre>
+
+<h3 id="options">Options</h3>
+
+<p><code>--help, -h</code> - help for kube</p>
+
+<h3 id="options-inherited-from-parent-commands">Options inherited from parent commands</h3>
+
+<p><code>--config, -C</code> - Specify an alternate config file [env EXOSCALE_CONFIG]<br />
+<code>--use-account, -A</code> - Account to use in config file [env EXOSCALE_ACCOUNT]</p>
+
+<h3 id="see-also">SEE ALSO</h3>
+
+<ul>
+<li><a href="/cli/exo_lab/">exo lab</a>   - Experimental commands<br /></li>
+
+<li><p><a href="/cli/exo_lab_kube_create/">exo lab kube create</a>   - Create and configure a standalone Kubernetes cluster</p></li>
+
+<li><p><a href="/cli/exo_lab_kube_delete/">exo lab kube delete</a>   - Delete a standalone Kubernetes cluster instance</p></li>
+
+<li><p><a href="/cli/exo_lab_kube_env/">exo lab kube env</a>     - Print a standalone Kubernetes cluster&rsquo;s environment variables</p></li>
+
+<li><p><a href="/cli/exo_lab_kube_ip/">exo lab kube ip</a>   - Print a standalone Kubernetes cluster&rsquo;s IP address</p></li>
+
+<li><p><a href="/cli/exo_lab_kube_list/">exo lab kube list</a>   - List running Kubernetes cluster instances</p></li>
+
+<li><p><a href="/cli/exo_lab_kube_start/">exo lab kube start</a>     - Start a stopped standalone Kubernetes cluster instance</p></li>
+
+<li><p><a href="/cli/exo_lab_kube_stop/">exo lab kube stop</a>   - Stop a standalone Kubernetes cluster instance</p></li>
+</ul>
+  </div>
+</div>
+</section>
+
+
+</main>
+
+
+
+<footer class="footer" style="clear:both">
+    <div class="container">
+        <div class="content has-text-centered">
+            <p>Made with ❤️ in Lausanne, Switzerland 🇨🇭.</p>
+            <p>
+                Built with <a href="https://gohugo.io/">Hugo</a>, <a href="https://bulma.io/">Bulma</a>.
+                Hosted on <a href="https://github.com/exoscale/cli">GitHub</a>.
+            </p>
+        </div>
+    </div>
+</footer>
+

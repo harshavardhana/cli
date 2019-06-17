@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>
+  exo api network list &ndash; exo - the Exoscale command-line tool
+</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css">
+<script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+
+<nav class="navbar is-dark" role="navigation" aria-label="main navigation">
+    <div class="container">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="https://exoscale.github.io/cli">Exoscale CLI</a>
+        </div>
+        <div class="navbar-end is-right navbar-menu">
+            <div style="margin-top:.7rem">
+                <a class="button is-primary" href="https://github.com/exoscale/cli/releases">
+                    <span class="icon"><i class="fas fa-download"></i></span>
+                    <span>Download</span>
+                </a>
+                <iframe src="https://ghbtns.com/github-btn.html?user=exoscale&repo=cli&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px" style="height: 30px !important"></iframe>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<main>
+    
+
+<section class="hero is-light is-bold">
+<div class="hero-body">
+<div class="container">
+  <h1 class="title is-1 is-spaced">exo api network list</h1>
+  <div class="subtitle">Lists all available networks.</div>
+</div>
+</div>
+</section>
+
+<section class="section">
+<div class="container">
+  <div class="content">
+    <h3 id="synopsis">Synopsis</h3>
+
+<p>Lists all available networks. <a href="http://cloudstack.apache.org/api/apidocs-4.4/user/listNetworks.html">http://cloudstack.apache.org/api/apidocs-4.4/user/listNetworks.html</a></p>
+
+<pre><code>exo api network list [flags]
+</code></pre>
+
+<h3 id="options">Options</h3>
+
+<p><code>--canusefordeploy</code> - List networks available for vm deployment<br />
+<code>--id</code> - List networks by id<br />
+<code>--issystem</code> - true If network is system, false otherwise<br />
+<code>--keyword</code> - List by keyword<br />
+<code>--page</code> -<br />
+<code>--pagesize</code> -<br />
+<code>--physicalnetworkid</code> - List networks by physical network id<br />
+<code>--restartrequired</code> - List networks by restartRequired<br />
+<code>--specifyipranges</code> - True if need to list only networks which support specifying ip ranges<br />
+<code>--tags</code> - List resources by tags (key/value pairs)<br />
+<code>--traffictype</code> - Type of the traffic<br />
+<code>--type</code> - The type of the network. Supported values are: Isolated and Shared<br />
+<code>--zoneid</code> - The Zone ID of the network<br />
+<code>--help, -h</code> - help for list</p>
+
+<h3 id="options-inherited-from-parent-commands">Options inherited from parent commands</h3>
+
+<p><code>--config, -C</code> - Specify an alternate config file [env EXOSCALE_CONFIG]<br />
+<code>--debug, -d</code> - debug mode on<br />
+<code>--dry-run, -D</code> - produce a cURL ready URL<br />
+<code>--use-account, -A</code> - Account to use in config file [env EXOSCALE_ACCOUNT]</p>
+
+<h3 id="see-also">SEE ALSO</h3>
+
+<ul>
+<li><a href="/cli/exo_api_network/">exo api network</a>   - Network management<br />
+<br /></li>
+</ul>
+  </div>
+</div>
+</section>
+
+
+</main>
+
+
+
+<footer class="footer" style="clear:both">
+    <div class="container">
+        <div class="content has-text-centered">
+            <p>Made with ❤️ in Lausanne, Switzerland 🇨🇭.</p>
+            <p>
+                Built with <a href="https://gohugo.io/">Hugo</a>, <a href="https://bulma.io/">Bulma</a>.
+                Hosted on <a href="https://github.com/exoscale/cli">GitHub</a>.
+            </p>
+        </div>
+    </div>
+</footer>
+

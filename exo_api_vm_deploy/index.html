@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>
+  exo api vm deploy &ndash; exo - the Exoscale command-line tool
+</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css">
+<script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+
+<nav class="navbar is-dark" role="navigation" aria-label="main navigation">
+    <div class="container">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="https://exoscale.github.io/cli">Exoscale CLI</a>
+        </div>
+        <div class="navbar-end is-right navbar-menu">
+            <div style="margin-top:.7rem">
+                <a class="button is-primary" href="https://github.com/exoscale/cli/releases">
+                    <span class="icon"><i class="fas fa-download"></i></span>
+                    <span>Download</span>
+                </a>
+                <iframe src="https://ghbtns.com/github-btn.html?user=exoscale&repo=cli&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px" style="height: 30px !important"></iframe>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<main>
+    
+
+<section class="hero is-light is-bold">
+<div class="hero-body">
+<div class="container">
+  <h1 class="title is-1 is-spaced">exo api vm deploy</h1>
+  <div class="subtitle">Creates and automatically starts a virtual machine based on a service offering, disk offering, and template.</div>
+</div>
+</div>
+</section>
+
+<section class="section">
+<div class="container">
+  <div class="content">
+    <h3 id="synopsis">Synopsis</h3>
+
+<p>Creates and automatically starts a virtual machine based on a service offering, disk offering, and template. <a href="http://cloudstack.apache.org/api/apidocs-4.4/user/deployVirtualMachine.html">http://cloudstack.apache.org/api/apidocs-4.4/user/deployVirtualMachine.html</a></p>
+
+<pre><code>exo api vm deploy [flags]
+</code></pre>
+
+<h3 id="options">Options</h3>
+
+<p><code>--affinitygroupids</code> - comma separated list of affinity groups id that are going to be applied to the virtual machine. Mutually exclusive with affinitygroupnames parameter<br />
+<code>--affinitygroupnames</code> - comma separated list of affinity groups names that are going to be applied to the virtual machine.Mutually exclusive with affinitygroupids parameter<br />
+<code>--details</code> - used to specify the custom parameters.<br />
+<code>--diskofferingid</code> - the ID of the disk offering for the virtual machine. If the template is of ISO format, the diskofferingid is for the root disk volume. Otherwise this parameter is used to indicate the offering for the data disk volume. If the templateid parameter passed is from a Template object, the diskofferingid refers to a DATA Disk Volume created. If the templateid parameter passed is from an ISO object, the diskofferingid refers to a ROOT Disk Volume created.<br />
+<code>--displayname</code> - an optional user generated name for the virtual machine<br />
+<code>--group</code> - an optional group for the virtual machine<br />
+<code>--ip4</code> - True to set an IPv4 to the default interface<br />
+<code>--ip6</code> - True to set an IPv6 to the default interface<br />
+<code>--ip6address</code> - the ipv6 address for default vm&#39;s network<br />
+<code>--ipaddress</code> - the ip address for default vm&#39;s network<br />
+<code>--keyboard</code> - an optional keyboard device type for the virtual machine. valid value can be one of de,de-ch,es,fi,fr,fr-be,fr-ch,is,it,jp,nl-be,no,pt,uk,us<br />
+<code>--keypair</code> - name of the ssh key pair used to login to the virtual machine<br />
+<code>--name</code> - host name for the virtual machine<br />
+<code>--networkids</code> - list of network ids used by virtual machine. Can&#39;t be specified with ipToNetworkList parameter<br />
+<code>--rootdisksize</code> - Optional field to resize root disk on deploy. Value is in GB. Only applies to template-based deployments. Analogous to details[0].rootdisksize, which takes precedence over this parameter if both are provided<br />
+<code>--securitygroupids</code> - comma separated list of security groups id that going to be applied to the virtual machine. Should be passed only when vm is created from a zone with Basic Network support. Mutually exclusive with securitygroupnames parameter<br />
+<code>--securitygroupnames</code> - comma separated list of security groups names that going to be applied to the virtual machine. Should be passed only when vm is created from a zone with Basic Network support. Mutually exclusive with securitygroupids parameter<br />
+<code>--serviceofferingid</code> - (<strong>required</strong>) the ID of the service offering for the virtual machine<br />
+<code>--size</code> - the arbitrary size for the DATADISK volume. Mutually exclusive with diskofferingid<br />
+<code>--startvm</code> - true if start vm after creating. Default value is true<br />
+<code>--templateid</code> - (<strong>required</strong>) the ID of the template for the virtual machine<br />
+<code>--userdata</code> - an optional binary data that can be sent to the virtual machine upon a successful deployment. This binary data must be base64 encoded before adding it to the request. Using HTTP GET (via querystring), you can send up to 2KB of data after base64 encoding. Using HTTP POST(via POST body), you can send up to 32K of data after base64 encoding.<br />
+<code>--zoneid</code> - (<strong>required</strong>) availability zone for the virtual machine<br />
+<code>--help, -h</code> - help for deploy</p>
+
+<h3 id="options-inherited-from-parent-commands">Options inherited from parent commands</h3>
+
+<p><code>--config, -C</code> - Specify an alternate config file [env EXOSCALE_CONFIG]<br />
+<code>--debug, -d</code> - debug mode on<br />
+<code>--dry-run, -D</code> - produce a cURL ready URL<br />
+<code>--use-account, -A</code> - Account to use in config file [env EXOSCALE_ACCOUNT]</p>
+
+<h3 id="see-also">SEE ALSO</h3>
+
+<ul>
+<li><a href="/cli/exo_api_vm/">exo api vm</a>     - Virtual machine management<br />
+<br /></li>
+</ul>
+  </div>
+</div>
+</section>
+
+
+</main>
+
+
+
+<footer class="footer" style="clear:both">
+    <div class="container">
+        <div class="content has-text-centered">
+            <p>Made with ❤️ in Lausanne, Switzerland 🇨🇭.</p>
+            <p>
+                Built with <a href="https://gohugo.io/">Hugo</a>, <a href="https://bulma.io/">Bulma</a>.
+                Hosted on <a href="https://github.com/exoscale/cli">GitHub</a>.
+            </p>
+        </div>
+    </div>
+</footer>
+

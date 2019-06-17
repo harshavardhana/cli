@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>
+  exo api vm &ndash; exo - the Exoscale command-line tool
+</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css">
+<script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+
+<nav class="navbar is-dark" role="navigation" aria-label="main navigation">
+    <div class="container">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="https://exoscale.github.io/cli">Exoscale CLI</a>
+        </div>
+        <div class="navbar-end is-right navbar-menu">
+            <div style="margin-top:.7rem">
+                <a class="button is-primary" href="https://github.com/exoscale/cli/releases">
+                    <span class="icon"><i class="fas fa-download"></i></span>
+                    <span>Download</span>
+                </a>
+                <iframe src="https://ghbtns.com/github-btn.html?user=exoscale&repo=cli&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px" style="height: 30px !important"></iframe>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<main>
+    
+
+<section class="hero is-light is-bold">
+<div class="hero-body">
+<div class="container">
+  <h1 class="title is-1 is-spaced">exo api vm</h1>
+  <div class="subtitle">Virtual machine management</div>
+</div>
+</div>
+</section>
+
+<section class="section">
+<div class="container">
+  <div class="content">
+    <pre><code>exo api vm [command] [flags]
+</code></pre>
+
+<h3 id="options">Options</h3>
+
+<p><code>--help, -h</code> - help for vm</p>
+
+<h3 id="options-inherited-from-parent-commands">Options inherited from parent commands</h3>
+
+<p><code>--config, -C</code> - Specify an alternate config file [env EXOSCALE_CONFIG]<br />
+<code>--debug, -d</code> - debug mode on<br />
+<code>--dry-run, -D</code> - produce a cURL ready URL<br />
+<code>--use-account, -A</code> - Account to use in config file [env EXOSCALE_ACCOUNT]</p>
+
+<h3 id="see-also">SEE ALSO</h3>
+
+<ul>
+<li><a href="/cli/exo_api/">exo api</a>   - Exoscale api<br /></li>
+
+<li><p><a href="/cli/exo_api_vm_addnic/">exo api vm addNic</a>   - Adds VM to specified network by creating a NIC</p></li>
+
+<li><p><a href="/cli/exo_api_vm_attachiso/">exo api vm attachIso</a>     - Attaches an ISO to a virtual machine.</p></li>
+
+<li><p><a href="/cli/exo_api_vm_changeservice/">exo api vm changeService</a>     - Changes the service offering for a virtual machine. The virtual machine must be in a &laquo;Stopped&raquo; state for this command to take effect.</p></li>
+
+<li><p><a href="/cli/exo_api_vm_deletereversednsfromvm/">exo api vm deleteReverseDNSFromVM</a>   - Delete the PTR DNS record(s) from the virtual machine</p></li>
+
+<li><p><a href="/cli/exo_api_vm_deploy/">exo api vm deploy</a>   - Creates and automatically starts a virtual machine based on a service offering, disk offering, and template.</p></li>
+
+<li><p><a href="/cli/exo_api_vm_destroy/">exo api vm destroy</a>     - Destroys a virtual machine.</p></li>
+
+<li><p><a href="/cli/exo_api_vm_detachiso/">exo api vm detachIso</a>     - Detaches any ISO file (if any) currently attached to a virtual machine.</p></li>
+
+<li><p><a href="/cli/exo_api_vm_expunge/">exo api vm expunge</a>     - Expunge a virtual machine. Once expunged, it cannot be recoverd.</p></li>
+
+<li><p><a href="/cli/exo_api_vm_getpassword/">exo api vm getPassword</a>     - Returns an encrypted password for the VM</p></li>
+
+<li><p><a href="/cli/exo_api_vm_getuserdata/">exo api vm getUserData</a>     - Returns user data associated with the VM</p></li>
+
+<li><p><a href="/cli/exo_api_vm_list/">exo api vm list</a>   - List the virtual machines owned by the account.</p></li>
+
+<li><p><a href="/cli/exo_api_vm_queryreversednsforvm/">exo api vm queryReverseDNSForVM</a>   - Query the PTR DNS record(s) for the virtual machine</p></li>
+
+<li><p><a href="/cli/exo_api_vm_reboot/">exo api vm reboot</a>   - Reboots a virtual machine.</p></li>
+
+<li><p><a href="/cli/exo_api_vm_recover/">exo api vm recover</a>     - Recovers a virtual machine.</p></li>
+
+<li><p><a href="/cli/exo_api_vm_removenic/">exo api vm removeNic</a>     - Removes VM from specified network by deleting a NIC</p></li>
+
+<li><p><a href="/cli/exo_api_vm_resetpassword/">exo api vm resetPassword</a>     - Resets the password for virtual machine. The virtual machine must be in a &laquo;Stopped&raquo; state and the template must already support this feature for this command to take effect.</p></li>
+
+<li><p><a href="/cli/exo_api_vm_restore/">exo api vm restore</a>     - Restore a VM to original template/ISO or new template/ISO</p></li>
+
+<li><p><a href="/cli/exo_api_vm_scale/">exo api vm scale</a>     - Scales the virtual machine to a new service offering.</p></li>
+
+<li><p><a href="/cli/exo_api_vm_start/">exo api vm start</a>     - Starts a virtual machine.</p></li>
+
+<li><p><a href="/cli/exo_api_vm_stop/">exo api vm stop</a>   - Stops a virtual machine.</p></li>
+
+<li><p><a href="/cli/exo_api_vm_update/">exo api vm update</a>   - Updates properties of a virtual machine. The VM has to be stopped and restarted for the new properties to take effect. UpdateVirtualMachine does not first check whether the VM is stopped. Therefore, stop the VM manually before issuing this call.</p></li>
+
+<li><p><a href="/cli/exo_api_vm_updatereversednsforvm/">exo api vm updateReverseDNSForVM</a>     - Update/create the PTR DNS record(s) for the virtual machine</p></li>
+
+<li><p><a href="/cli/exo_api_vm_updatevmaffinitygroup/">exo api vm updateVMAffinityGroup</a>     - Updates the affinity/anti-affinity group associations of a virtual machine. The VM has to be stopped and restarted for the new properties to take effect.</p></li>
+
+<li><p><a href="/cli/exo_api_vm_updatevmnicip/">exo api vm updateVMNicIP</a>     - Update the default Ip of a VM Nic</p></li>
+</ul>
+  </div>
+</div>
+</section>
+
+
+</main>
+
+
+
+<footer class="footer" style="clear:both">
+    <div class="container">
+        <div class="content has-text-centered">
+            <p>Made with ❤️ in Lausanne, Switzerland 🇨🇭.</p>
+            <p>
+                Built with <a href="https://gohugo.io/">Hugo</a>, <a href="https://bulma.io/">Bulma</a>.
+                Hosted on <a href="https://github.com/exoscale/cli">GitHub</a>.
+            </p>
+        </div>
+    </div>
+</footer>
+

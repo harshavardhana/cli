@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on exo - the Exoscale command-line tool</title>
+    <link>https://exoscale.github.io/cli/tags/</link>
+    <description>Recent content in Tags on exo - the Exoscale command-line tool</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://exoscale.github.io/cli/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@ UNRELEASED
 - Fix output bug in `network delete` command (#152)
 - Display zone in `template (list|show)` commands (#153)
 - Set a custom User-Agent (#154)
-- Require confirmation for `vm stop`/`vm reboot` commands (#155)
+- Require confirmation for `vm stop`/`vm reboot` commands (#156)
 - Update egoscale to 0.18.1
 
 1.3.0
